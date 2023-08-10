@@ -1,0 +1,64 @@
+#navigation {
+    background-color: #8CC0DE;
+}
+
+.nav-link {
+    margin-left: 10px;
+}
+
+.references {
+    background-color:  #8CC0DE;
+    height: 10rem;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#product-list {
+    padding: 25px;
+    background-color: #F6F4EB;
+    text-align: center;
+}
+
+.card {
+    background-color: #FFDBC3;
+}
+
+#Note {
+    margin: 4px;
+}
+
+#about {
+    margin: 10px;
+    text-decoration: None;
+}
+
+#contact {
+    margin: 10px;
+    text-decoration: None;
+}
+
+#Form {
+    background-color: #FAF0D7;
+    padding: 35px;
+    height: 498px;
+}
+
+#Logindiv {
+    background-color: #FAF0D7;
+    padding: 35px;
+    height: 31rem;
+}
+
+#loginsubmit {
+    margin-top: 95px;
+    margin-left: 622px;
+}
+
+#loginform {
+    padding-top: 55px;
+}
+
+#signupsubmit {
+    margin-left: 694px;
+}
+
